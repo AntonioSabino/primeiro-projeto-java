@@ -20,16 +20,5 @@ public class ProjetoYouTube {
 
         System.out.println(vis[0]);
         System.out.println(vis[1]);
-
-
-//        System.out.println("VIDEOS\n-----------------------------");
-//        System.out.println(videos[0]);
-//        System.out.println(videos[1]);
-//        System.out.println(videos[2]);
-//
-//        System.out.println("\nGAFANHOTOS\n-----------------------------");
-//        System.out.println(gafanhoto[0]);
-//        System.out.println(gafanhoto[1]);
-
     }
 }
