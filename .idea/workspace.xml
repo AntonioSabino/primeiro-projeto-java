@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebe93371-03ae-4743-96e2-4a93eb1e6065" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjetoFinalCursoEmVideo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/AcoesVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Gafanhoto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/ProjetoYouTube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projetoyoutube/Visualizacao.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebe93371-03ae-4743-96e2-4a93eb1e6065" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
